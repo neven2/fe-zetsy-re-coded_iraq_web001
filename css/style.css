@@ -18,3 +18,33 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 a{
+  text-decoration: none;
+  color:#D3D3D3;
+  font-size: 80px;
+}
+.border{
+  border: 4px solid gray;
+}
+h1 a:hover{
+  color:gray;
+}
+.img{
+  border:4px solid  #D3D3D3;
+}
+h2{
+   color: #778899;
+  font-size: 40px;
+}
+p{
+  color:gray;
+}
+p a{
+  text-decoration: none;
+}
+
+a img:hover{
+  border:4px solid gray;
+}
+
